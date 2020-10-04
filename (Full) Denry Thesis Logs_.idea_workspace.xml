@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Denry FinalProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ea4a85c-5716-43f2-8d1b-ccaf9516c0c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbNpkbbWNv0c4FzyOcgt29I4ZN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainMenu">
+    <configuration name="Admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Admin" />
+      <module name="Denry FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminLogin" />
+      <module name="Denry FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainMenu" />
+      <module name="Denry FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentLog" />
+      <module name="Denry FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThesisTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThesisTable" />
+      <module name="Denry FinalProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainMenu" />
+        <item itemvalue="Application.AdminLogin" />
+        <item itemvalue="Application.ThesisTable" />
+        <item itemvalue="Application.StudentLog" />
+        <item itemvalue="Application.Admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ea4a85c-5716-43f2-8d1b-ccaf9516c0c2" name="Default Changelist" comment="" />
+      <created>1581311018515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581311018515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="704" y="353" width="525" height="421" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600761445783">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state x="704" y="353" width="525" height="421" key="#com.intellij.ide.util.TreeClassChooserDialog/44.27.1876.1053/1920.312.1366.768@44.27.1876.1053" timestamp="1600761445783" />
+    <state width="1280" height="261" key="GridCell.Tab.0.bottom" timestamp="1599127605540">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1280" height="261" key="GridCell.Tab.0.bottom/44.27.1322.741@44.27.1322.741" timestamp="1599127605540" />
+    <state width="1280" height="261" key="GridCell.Tab.0.center" timestamp="1599127605539">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1280" height="261" key="GridCell.Tab.0.center/44.27.1322.741@44.27.1322.741" timestamp="1599127605539" />
+    <state width="1280" height="261" key="GridCell.Tab.0.left" timestamp="1599127605539">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1280" height="261" key="GridCell.Tab.0.left/44.27.1322.741@44.27.1322.741" timestamp="1599127605539" />
+    <state width="1280" height="261" key="GridCell.Tab.0.right" timestamp="1599127605540">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1280" height="261" key="GridCell.Tab.0.right/44.27.1322.741@44.27.1322.741" timestamp="1599127605540" />
+    <state x="465" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1600761455579">
+      <screen x="44" y="27" width="1876" height="1053" />
+    </state>
+    <state x="465" y="131" width="1024" height="852" key="SettingsEditor/44.27.1876.1053/1920.312.1366.768@44.27.1876.1053" timestamp="1600761455579" />
+  </component>
+</project>

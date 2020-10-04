@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Denry FinalProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Denry_FinalProject_jar</output-path>
+    <root id="archive" name="Denry FinalProject.jar">
+      <element id="module-output" name="Denry FinalProject" />
+    </root>
+  </artifact>
+</component>
